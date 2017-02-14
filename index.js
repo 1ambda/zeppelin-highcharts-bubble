@@ -33,7 +33,7 @@ export default class BubbleChart extends Visualization {
     render(tableData) {
         const conf = this.config
 
-        /** heatmap can be rendered when all 3 axises are defined */
+        /** can be rendered when all axises are defined */
         if (!conf.xAxis || !conf.yAxis || !conf.zAxis || !conf.category) {
             return
         }

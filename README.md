@@ -4,7 +4,6 @@ Bubble Chart for Apache Zeppelin using highcharts.js
 
 ## Usage
 
-- Enable in the `/helium` page
 - **xAxis**: `number`
 - **yAxis**: `number`
 - **zAxis**: `number`
