@@ -1,0 +1,9 @@
+{
+  "type" : "VISUALIZATION",
+  "name" : "zeppelin-highcharts-bubble",
+  "version" : "local",
+  "description": "Bubble chart using highcharts library",
+  "artifact" : "/Users/lambda/github/1ambda/zeppelin-highcharts-bubble",
+  "icon": "<i class=\"fa fa-dot-circle-o\"></i>",
+  "license": "Highcharts (https://shop.highsoft.com/faq/licensing)"
+}
