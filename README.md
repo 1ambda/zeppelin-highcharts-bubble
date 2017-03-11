@@ -36,4 +36,5 @@ Daily Fat \t Daily Sugar \t Obesity \t Country \n
 
 ## License
 
-See [https://shop.highsoft.com/faq](https://shop.highsoft.com/faq)
+- See [https://shop.highsoft.com/faq](https://shop.highsoft.com/faq)
+- Icon made by [Alla Afanasenko](https://www.shareicon.net/author/alla-afanasenko) from [shareicon.net](https://www.shareicon.net/schedule-diagram-black-background-bubble-chart-822303)
